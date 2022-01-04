@@ -1,6 +1,5 @@
 # <!-- 20s-ma573: --> Computational Finance
 
----
 - [git+colab](src/20s_github.ipynb)
 - [python](src/20python_notebook.ipynb)
 - [pandas](src/20pandas.ipynb)
