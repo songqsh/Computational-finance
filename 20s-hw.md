@@ -10,7 +10,7 @@
 
 - hw4 - [monotonicity in volatility](src/20montone.ipynb)
 
-- hw3 - [implied volatility -bsm](src/20iv_hw01.ipynb)
+- hw3 - [implied volatility](src/20iv_hw01.ipynb)
 
 - hw4 - [bsm calibration](src/20bsm_calibration_v01hw.ipynb)
 
