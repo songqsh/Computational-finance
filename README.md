@@ -9,6 +9,7 @@
 - [bsm formula](src/20bsm_formula.ipynb)
 - [implied volatility](src/20imp_vol_v01.ipynb)
 - [volatility smile](src/20vol_smile_v01.ipynb)
+- [bsm greeks](src/20explicit_bsm_greeks.ipynb)
 - [python module/test](src/20bsm01_test.ipynb)
 
 --------------
